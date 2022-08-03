@@ -25,7 +25,7 @@ I'm learning front-end development to get better!
   
 #
  
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usablepaper&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usablepaper&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10" width="35%"/>
 
 
 <div>
