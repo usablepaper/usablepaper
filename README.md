@@ -1,6 +1,6 @@
 <div align="left">
 
-  <h1>Hi! I'm Hyeonji Lim 🕵🏻‍♀️</h1>
+  <h1>Hi, I'm Hyeonji! 🕵🏻‍♀️</h1>
 
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=usablepaper&show_icons=true&&theme=dracula&hide="/> 
 
