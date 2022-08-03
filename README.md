@@ -1,8 +1,6 @@
 <div align="left">
-  
-   ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Hi!%20I'm%20Hyeonji%20Lim%20🕵🏻‍♀️&fontSize=40&fontColor=fffff)
-   
-   # 
+
+  <h1>Hi! I'm Hyeonji Lim 🕵🏻‍♀️</h1>
 
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=usablepaper&show_icons=true&&theme=dracula&hide="/> 
 
@@ -23,15 +21,9 @@ I'm learning front-end development to get better!
  
  ```Interactive Web``` ```User Experience``` ```Cat```
 
- <br>
-
 </div>
   
-
-  
- ---
- 
- <br>
+#
  
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usablepaper&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
@@ -58,9 +50,8 @@ I'm learning front-end development to get better!
 
 <br>
 <br>
-<br>
-
----
+  
+#
 
 ### ✏️  Studying
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
