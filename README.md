@@ -5,8 +5,6 @@
   <br>
 
   💌 usablepaper@gmail.com
-<br>
-  🏠 <a href="https://usablepaper.kr" target="_blank">usablepaper.kr</a>
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusablepaper&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)
  ---
