@@ -20,7 +20,7 @@ Collaborating with agencies and teams as well as pursuing independent projects.
 Next.js · React · TypeScript · JavaScript · Vue.js
 
 **Back-end**
-Node.js · Python
+Node.js · Python  · PHP
 
 **Cloud & DevOps**
 AWS (S3, Lambda, CloudFront) · GitHub Actions
